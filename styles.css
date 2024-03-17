@@ -12,6 +12,36 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+h1{
+    padding-left: 10%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.texto{
+    margin-left: 12%;
+    margin-bottom: 30px;
+    padding: 20px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    border: 1px solid gray;
+    border-radius: 15px;
+    width: 80%;
+}
+
+.opc{
+    margin-left: 12%;
+}
+
+.buttom{
+    width: 300px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .Navigation-Items{
     text-align: center;
     margin: 20px;
